@@ -1,0 +1,24 @@
+.productStyle {
+  max-width: 700px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background: rgb(204, 207, 163);
+  min-height: 670px;
+}
+
+.menuStyle {
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background: #0f4e61;
+  border-radius: 8px;
+  background: rgb(204, 207, 163);
+  min-height: 670px;
+}
+.categoryStyle {
+  max-width: 400px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
